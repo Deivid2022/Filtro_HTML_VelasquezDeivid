@@ -141,6 +141,7 @@ body{
     text-decoration: none;
     color: white;
     background-color: green;
+    font-size: 1.2vi;
     top: 2.8vi;
     left: 7vi;
     width: 5vi;
@@ -448,4 +449,139 @@ body{
     width: 4vi;
     height: 50vi;
     border-radius: 0.5vi 1.2vi 1.2vi 0vi;
+ }
+ @media screen and (max-width: 600px) {
+   .titulo{
+      position: absolute;
+      font-size: 7vi;
+      left: 27.4vi;
+   }
+   .todos{
+      font-size: 4vi;
+      width: 33vi;
+   }
+   .abrigo{
+      font-size: 4vi;
+      left: 48vi;
+      top: 15vi;
+   }
+   .abrigo:hover{
+      border: none;
+   }
+   .camisas{
+      font-size: 4vi;
+      left: 69vi;
+      top: 15vi;
+   }
+   .camisas:hover{
+      border: none;
+   }
+   .pantalones{
+      font-size: 4vi;
+      left: 23vi;
+      top: 23vi;
+   }
+   .pantalones:hover{
+      border: none;
+   }
+   .carrito{
+      font-size: 4vi;
+      left: 53vi;
+      top: 23vi;
+   }
+   .carrito:hover{
+      border: none;
+   }
+   .numero3{
+      left: 68vi;
+      top: 23vi;
+      width: 3vi;
+      height: 4vi;
+      line-height: 4vi;
+      font-size: 3.5vi;
+   }
+   .margen{
+      top: 40vi;
+      left: 18vi;
+      height: 150vi;
+   }
+   .Todos{
+      font-size: 4vi;
+      left: 10vi;
+   }
+   .Aid1{
+      width: 50vi;
+      top: 15vi;
+      left: 7vi;
+   }
+   .dentro{
+      width: 50vi;
+      height: 15vi;
+      top: 70vi;
+      left: 7vi;
+   }
+   .numero{
+      font-size: 3vi;
+   }
+   .valor{
+      font-size: 3vi;
+      top: 10vi;
+   }
+   .boton{
+      width: 18vi;
+      height: 3vi;
+      top: 10vi;
+      left: 30vi;
+      font-size: 3vi;
+   }
+   .Aid2{
+      width: 50vi;
+      top: 86vi;
+      left: 7vi;
+   }
+   .dentro1{
+      width: 50vi;
+      height: 15vi;
+      top: 135vi;
+      left: 7vi;
+   }
+   .Cid1{
+      display: none;
+   }
+   .dentro2{
+      display: none;
+   }
+   .Cid2{
+      display: none;
+   }
+   .dentro3{
+      display: none;
+   }
+   .Pid1{
+      display: none;
+   }
+   .dentro4{
+      display: none;
+   }
+   .Pid2{
+      display: none;
+   }
+   .dentro5{
+      display: none;
+   }
+   .Pid3{
+      display: none;
+   }
+   .dentro6{
+      display: none;
+   }
+   .Pid4{
+      display: none;
+   }
+   .dentro7{
+      display: none;
+   }
+   .barra{
+      display: none;
+   }
  }

@@ -148,7 +148,7 @@ body{
     top: 5vi;
     left: 25vi;
     width: 8vi;
-    border: 3px solid black;
+    border: 0.2vi solid black;
  }
  .precio{
     position: absolute;
