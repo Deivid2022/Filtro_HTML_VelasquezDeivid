@@ -234,6 +234,7 @@ body{
  .Cid2{
     position: absolute;
     width: 13vi;
+    height: 17vi;
     top: 6vi;
     left: 47vi;
     border-radius: 2vi;
@@ -253,6 +254,7 @@ body{
     position: absolute;
     font-size: 0.8vi;
     top: 0.3vi;
+    left: 1vi;
     text-align: center;
  }
  .valor{
@@ -315,132 +317,7 @@ body{
     height: 1.3vi;
     border-radius: 0.3vi;
  }
- .Pid2{
-    position: absolute;
-    width: 13vi;
-    top: 27vi;
-    left: 17vi;
-    border-radius: 2vi;
-    border: 1px solid rgb(54, 94, 40); 
- }
- .dentro5{
-    position: absolute;
-    width: 13vi;
-    height: 5vi;
-    border: 1px solid rgb(54, 94, 40);
-    border-radius: 1vi;
-    background-color: white;
-    top: 40vi;
-    left: 17vi;
- }
- .numero{
-    position: absolute;
-    font-size: 0.8vi;
-    top: 0.3vi;
-    text-align: center;
- }
- .valor{
-    position: absolute;
-    font-size: 1vi;
-    left: 0.8vi;
-    top: 2.8vi;
- }
- .boton{
-    position: absolute;
-    text-align: center;
-    text-decoration: none;
-    color: white;
-    background-color: green;
-    top: 2.8vi;
-    left: 7vi;
-    width: 5vi;
-    height: 1.3vi;
-    border-radius: 0.3vi;
- }
- .Pid3{
-    position: absolute;
-    width: 13vi;
-    top: 27vi;
-    left: 32vi;
-    border-radius: 2vi;
-    border: 1px solid rgb(54, 94, 40); 
- }
- .dentro6{
-    position: absolute;
-    width: 13vi;
-    height: 5vi;
-    border: 1px solid rgb(54, 94, 40);
-    border-radius: 1vi;
-    background-color: white;
-    top: 40vi;
-    left: 32vi;
- }
- .numero{
-    position: absolute;
-    font-size: 0.8vi;
-    top: 0.3vi;
-    text-align: center;
- }
- .valor{
-    position: absolute;
-    font-size: 1vi;
-    left: 0.8vi;
-    top: 2.8vi;
- }
- .boton{
-    position: absolute;
-    text-align: center;
-    text-decoration: none;
-    color: white;
-    background-color: green;
-    top: 2.8vi;
-    left: 7vi;
-    width: 5vi;
-    height: 1.3vi;
-    border-radius: 0.3vi;
- }
- .Pid4{
-    position: absolute;
-    width: 13vi;
-    top: 27vi;
-    left: 47vi;
-    border-radius: 2vi;
-    border: 1px solid rgb(54, 94, 40); 
- }
- .dentro7{
-    position: absolute;
-    width: 13vi;
-    height: 5vi;
-    border: 1px solid rgb(54, 94, 40);
-    border-radius: 1vi;
-    background-color: white;
-    top: 40vi;
-    left: 47vi;
- }
- .numero{
-    position: absolute;
-    font-size: 0.8vi;
-    top: 0.3vi;
-    text-align: center;
- }
- .valor{
-    position: absolute;
-    font-size: 1vi;
-    left: 0.8vi;
-    top: 2.8vi;
- }
- .boton{
-    position: absolute;
-    text-align: center;
-    text-decoration: none;
-    color: white;
-    background-color: green;
-    top: 2.8vi;
-    left: 7vi;
-    width: 5vi;
-    height: 1.3vi;
-    border-radius: 0.3vi;
- }
+ 
  .barra{
     position: absolute;
     top: 0vi;
