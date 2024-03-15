@@ -32,11 +32,12 @@ body{
     top: 19vi;
     left: 9vi;
     font-size: 1.5vi;
+}
+.abrigo:hover{
     border: 1px solid rgb(54, 94, 40);
     width: 22vi;
     border-radius: 0.5vi 0vi 0vi 0.5vi;
 }
-
 .camisas{
     position: absolute;
     text-decoration: none;
@@ -44,12 +45,11 @@ body{
     top: 23vi;
     left: 9vi;
     font-size: 1.5vi;
-}
-.camisas:hover{
     border: 1px solid rgb(54, 94, 40);
     width: 22vi;
     border-radius: 0.5vi 0vi 0vi 0.5vi;
 }
+
 .pantalones{
     position: absolute;
     text-decoration: none;

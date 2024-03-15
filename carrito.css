@@ -1,0 +1,254 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #d0f6ff;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.titulo{
+    position: absolute;
+    top: 3vi;
+    left: 4vi;
+    font-size: 2.5vi;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.todos{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    top: 15vi;
+    left: 9vi;
+    font-size: 1.5vi;
+}
+.todos:hover{
+    border: 1px solid rgb(54, 94, 40);
+    width: 22vi;
+    border-radius: 0.5vi 0vi 0vi 0.5vi;
+}
+.abrigo{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    top: 19vi;
+    left: 9vi;
+    font-size: 1.5vi;
+}
+.abrigo:hover{
+    border: 1px solid rgb(54, 94, 40);
+    width: 22vi;
+    border-radius: 0.5vi 0vi 0vi 0.5vi;
+}
+.camisas{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    top: 23vi;
+    left: 9vi;
+    font-size: 1.5vi;
+}
+.camisas:hover{
+    border: 1px solid rgb(54, 94, 40);
+    width: 22vi;
+    border-radius: 0.5vi 0vi 0vi 0.5vi;
+}
+
+.pantalones{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    top: 28vi;
+    left: 9vi;
+    font-size: 1.5vi;
+}
+.pantalones:hover{
+    border: 1px solid rgb(54, 94, 40);
+    width: 22vi;
+    border-radius: 0.5vi 0vi 0vi 0.5vi;
+}
+
+.carrito{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    top: 38vi;
+    left: 9vi;
+    font-size: 1.5vi;
+    border: 1px solid rgb(54, 94, 40);
+    width: 22vi;
+    border-radius: 0.5vi 0vi 0vi 0.5vi;
+}
+.numero3{
+    position: absolute;
+    font-size: 1vi;
+    border: 1px solid rgb(54, 94, 40); 
+    top: 38vi;
+    left: 16vi;
+    width: 1vi;
+    text-align: center;
+    height: 1.7vi;
+    line-height: 1.6vi;
+    border-radius: 0.3vi;
+ }
+ .margen{
+    position: absolute;
+    background-color: white;
+    width: 65vi;
+    height: 50vi;
+    top: 3.5vi;
+    left: 30vi;
+    border-radius: 2vi;
+    border: 1px solid rgb(54, 94, 40); 
+ }
+ .Todos{
+    position: absolute;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3vi;
+    top: 2vi;
+    left: 2vi;
+ }
+ .dentro1{
+    position: absolute;
+    background-color: white;
+    border: 1px solid rgb(54, 94, 40);
+    width: 56vi;
+    height: 10vi;
+    left: 2vi;
+    top: 10vi;
+    border-radius: 1.5vi;
+ }
+ .Aid3{
+    position: absolute;
+    width: 7vi;
+    left: 1vi;
+    top: 1vi;
+ }
+ .nombre{
+    position: absolute;
+    font-size: 1.7vi;
+    top: 1vi;
+    left: 11vi;
+ }
+ .nombre1{
+    position: absolute;
+    font-size: 1.2vi;
+    top: 4vi;
+    left: 11vi;
+    width: 12vi;
+ }
+ .cantidad{
+    position: absolute;
+    font-size: 1.7vi;
+    top: 1vi;
+    left: 26vi;
+ }
+ .cantidad1{
+    position: absolute;
+    font-size: 1.3vi;
+    top: 5vi;
+    left: 25vi;
+    width: 8vi;
+    border: 3px solid black;
+ }
+ .precio{
+    position: absolute;
+    font-size: 1.7vi;
+    top: 1vi;
+    left: 38vi;
+ }
+ .precio1{
+    position: absolute;
+    font-size: 1.7vi;
+    top: 5vi;
+    left: 37.5vi;
+ }
+ .subtotal1{
+    position: absolute;
+    font-size: 1.7vi;
+    top: 1vi;
+    left: 48vi;
+ }
+ .subtotal{
+    position: absolute;
+    font-size: 1.7vi;
+    top: 5vi;
+    left: 47.5vi;
+ }
+ .dentro2{
+    position: absolute;
+    background-color: white;
+    border: 1px solid rgb(54, 94, 40);
+    width: 56vi;
+    height: 10vi;
+    left: 2vi;
+    top: 21vi;
+    border-radius: 1.5vi;
+ }
+ .dentro3{
+    position: absolute;
+    background-color: white;
+    border: 1px solid rgb(54, 94, 40);
+    width: 56vi;
+    height: 10vi;
+    left: 2vi;
+    top: 32vi;
+    border-radius: 1.5vi;
+ }
+ .vaciar{
+    position: absolute;
+    text-decoration: none;
+    color: white;
+    background-color: green;
+    font-size: 1.3vi;
+    width: 10vi;
+    height: 1.8vi;
+    border-radius: 0.4vi;
+    line-height: 1.9vi;
+    text-align: center;
+    top: 44vi;
+    left: 3vi;
+ }
+ .ultimo{
+    position: absolute;
+    background-color: white;
+    border: 1px solid rgb(54, 94, 40);
+    width: 20vi;
+    height: 5vi;
+    border-radius: 1vi;
+    top: 43vi;
+    left: 38vi;
+ }
+ .total{
+    position: absolute;
+    font-size: 1.5vi;
+    left: 1vi;
+    top: 0.5vi;
+ }
+ .valor{
+    position: absolute;
+    font-size: 1.5vi;
+    left: 1vi;
+    top: 2.7vi;
+ }
+ .boton{
+    position: absolute;
+    text-decoration: none;
+    color: white;
+    background-color: green;
+    font-size: 1.3vi;
+    width: 10vi;
+    height: 1.8vi;
+    border-radius: 0.4vi;
+    line-height: 1.9vi;
+    text-align: center;
+    top: 1.7vi;
+    left: 9.5vi;
+ }
+ .barra{
+    position: absolute;
+    top: 0vi;
+    left: 61.1vi;
+    width: 4vi;
+    height: 50vi;
+    border-radius: 0.5vi 1.2vi 1.2vi 0vi;
+ }
